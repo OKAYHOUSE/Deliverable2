@@ -1,0 +1,15 @@
+/Users/tko/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2
+/Users/tko/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.deps.json
+/Users/tko/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.runtimeconfig.json
+/Users/tko/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.dll
+/Users/tko/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.pdb
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.AssemblyReference.cache
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfo.cs
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.dll
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/refint/Deliverable2.dll
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.pdb
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.genruntimeconfig.cache
+/Users/tko/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/ref/Deliverable2.dll
